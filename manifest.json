@@ -1,0 +1,14 @@
+{
+  "description": "KseniaPWA",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "name": "KseniaPWApp",
+  "short_name": "KseniaApp",
+  "start_url": "/"
+}
